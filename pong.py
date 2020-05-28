@@ -1,8 +1,6 @@
 import turtle
 import os
 
-print("test")
-
 # Variables
 wn = turtle.Screen()
 speed = 0.1
